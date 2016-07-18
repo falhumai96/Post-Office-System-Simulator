@@ -1,0 +1,12 @@
+package post.office.system.simulator;
+
+public class PostOfficeSystemSimulator {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        IntroWindow.main(args);
+    }
+    
+}
