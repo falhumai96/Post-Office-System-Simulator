@@ -1,4 +1,4 @@
-# Post-Office-System-Simulator
+# Post Office System Simulator
 
 To compile the project if you are using javac as the Java compiler, head to the root folder of this project and execute the following command:
 
