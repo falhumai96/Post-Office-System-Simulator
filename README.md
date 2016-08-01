@@ -13,3 +13,7 @@ To run the project (also from the root folder of the project), run the following
 ```
 java POSSim.PostOfficeSystemSimulator
 ```
+
+<br />
+
+"post office system test cases 1.zip" and "post office system test cases 1.zip" have sample tester post office system source codes.
