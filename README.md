@@ -16,4 +16,4 @@ java POSSim.PostOfficeSystemSimulator
 
 <br />
 
-"post office system test cases 1.zip" and "post office system test cases 1.zip" have sample tester post office system source codes.
+"post office system test cases 1.zip" and "post office system test cases 2.zip" have sample tester post office system source codes.
